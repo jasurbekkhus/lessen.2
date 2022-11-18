@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ body {
+    background: darkorchid;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    background: white;
+    margin: 120px 30px;
+    padding-top: 10px;
+}
+.box{
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    margin-left: 90px;
+    border-radius: 50%;
+    border: 4px solid rgba(242, 255, 0, 0.81);
+}
+.box1{
+    width: 105px;
+    height: 105px;
+    background: rgba(246, 255, 0, 0.816);
+    border-radius: 50%;
+    padding: 20px;
+    margin: 3px;
+}
+.p{
+    color: white;
+    font-size: 270%;
+    font-weight: bold;
+}
+
+.h{
+    display: flex;
+    text-align: center;
+}
+.i{
+    padding-left: 70px;
+    display: flex;
+    width: 120px;
+    border: 0.5px solid brown;
+    margin: 20px;
+}
+.in{
+    padding-left: 70px;
+    margin: 20px;
+    display: flex;
+    width: 80px;
+    border: 0.5px solid brown;
+}
+.lo{
+    margin: 20px;
+    font-size: 120%;
+}
+.icons{
+    color: red;
+    display: flex;
+    padding-top: 20px;
+}
+.icons i{
+    padding-left: 25px;
+}
+.icons1{
+    color: blue;
+    display: flex;
+}
+.icons2{
+    color: blue;
+    padding-top: 20px;
+    display: flex;
+}
+.icons1 i{
+    margin-left: 50px;
+}
+.icons2 i{
+    margin-left: 30px;
+}
+.pi{
+    color: black;
+}
+.pe{
+    color: black;
+}
+.po{
+    color: black;
+}
+.btn{
+    background: white;
+    color: yellow;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 200px;
+    height: 35px;
+    border: 3px solid rgba(255, 255, 0, 0.823);
+    border-radius: 20px;
+}
+.row{
+    display: flex;
+    clear: both;
+    content: "";
+
+}

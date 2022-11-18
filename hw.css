@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    background: left linear-gradient(rgb(166, 130, 238), rgba(30, 214, 255, 0.768));
+}
+.oo{
+    text-align: center;
+    font-size: 500%;
+    color: white;
+}
+.navbar2{
+    width: 100%;
+    height: 580px;
+    background: linear-gradient(violet,dodgerblue);
+    padding: 10px;
+}
+.card{
+    width: 350px;
+    height: 500px;
+    background: green;
+    border-radius: 35px;
+    padding: 5px;
+}
+.card1{
+    width:340px;
+    height: 490px;
+    background: white;
+    border-radius: 35px;
+    padding: 10px 70px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url(./ronal.jpg) no-repeat center/cover;
+}
+.log{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.h2{
+    padding-top: 20px;
+    text-align: center;
+    color: rgba(7, 6, 6, 0.367);
+}
+.icons{
+    margin: 20px;
+    padding-left: 20px;
+    font-size: 150%;
+}
+.btn{
+    width: 200px;
+    height: 35px;
+    background: black;
+    color: white;
+    border-radius: 20px;
+}
+.navbar3{
+    width: 100%;
+    height: 65px;
+    background: rgb(55, 50, 50);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.row{
+    display: flex;
+    clear: both;
+    content: "";
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url(./me.jpg) no-repeat center/cover;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url(./n.jpg) no-repeat center/cover;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url(./odi.jpg) no-repeat center/cover;
+}
